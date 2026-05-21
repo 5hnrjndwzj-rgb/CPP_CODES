@@ -36,7 +36,7 @@ void dividir(float a, float b)
              << endl;
     }
 }
-int main()
+int main() /// Programa Principal
 {
     float num1;
     float num2;
