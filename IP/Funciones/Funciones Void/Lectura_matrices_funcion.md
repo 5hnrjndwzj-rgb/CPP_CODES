@@ -1,13 +1,10 @@
 # Suma de Matrices 3×3 en C++
-
 Este programa permite:
-
 - Leer dos matrices de tamaño **3×3**.
 - Sumar ambas matrices elemento por elemento.
 - Mostrar las matrices originales y la matriz resultante.
-
 ## Código Fuente
-
+## Dr. Omar Alexander Barra Vázquez
 ```cpp
 #include <iostream>
 using namespace std;
